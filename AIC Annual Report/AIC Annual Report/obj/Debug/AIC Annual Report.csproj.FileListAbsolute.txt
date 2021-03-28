@@ -1,0 +1,36 @@
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\Direct Import\obj\Debug\AIC Annual Report.csprojAssemblyReference.cache
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\Direct Import\obj\Debug\Direct_Import.Properties.Resources.resources
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\Direct Import\obj\Debug\AIC Annual Report.csproj.GenerateResource.cache
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\Direct Import\obj\Debug\AIC Annual Report.csproj.CoreCompileInputs.cache
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\Direct Import\obj\Debug\Direct Import.exe
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\Direct Import\obj\Debug\Direct Import.pdb
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\Direct Import\bin\Debug\Direct Import.exe.config
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\Direct Import\bin\Debug\Direct Import.exe
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\Direct Import\bin\Debug\Direct Import.pdb
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\Direct Import\bin\Debug\WebDriver.dll
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\Direct Import\bin\Debug\WebDriver.Support.dll
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\Direct Import\bin\Debug\WebDriver.xml
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\Direct Import\bin\Debug\WebDriver.Support.xml
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\Direct Import\obj\Debug\AIC Annual Report.csproj.CopyComplete
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\Direct Import\obj\Debug\AIC_Annual_Report.form_Login.resources
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\bin\Debug\WebDriver.dll
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\bin\Debug\WebDriver.Support.dll
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\bin\Debug\WebDriver.xml
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\bin\Debug\WebDriver.Support.xml
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\obj\Debug\AIC_Annual_Report.form_Login.resources
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\obj\Debug\AIC Annual Report.csproj.GenerateResource.cache
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\obj\Debug\AIC Annual Report.csproj.CoreCompileInputs.cache
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\obj\Debug\AIC Annual Report.csproj.CopyComplete
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\bin\Debug\AIC Annual Report.exe.config
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\bin\Debug\AIC Annual Report.exe
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\bin\Debug\AIC Annual Report.pdb
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\obj\Debug\AIC_Annual_Report.Properties.Resources.resources
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\obj\Debug\AIC Annual Report.exe
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\obj\Debug\AIC Annual Report.pdb
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\bin\Debug\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\bin\Debug\Microsoft.Exchange.WebServices.dll
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\bin\Debug\Microsoft.Exchange.WebServices.pdb
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\bin\Debug\Microsoft.Exchange.WebServices.xml
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\bin\Debug\Microsoft.Exchange.WebServices.Auth.pdb
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\bin\Debug\Microsoft.Exchange.WebServices.Auth.xml
+C:\Users\c0c04nc\Documents\Project\合规年报\AIC Annual Report\AIC Annual Report\obj\Debug\AIC Annual Report.csprojAssemblyReference.cache

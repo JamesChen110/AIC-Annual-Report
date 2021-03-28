@@ -1,0 +1,15 @@
+C:\Users\Walmart\Documents\Direct Import\Direct Import\bin\Debug\Direct Import.exe.config
+C:\Users\Walmart\Documents\Direct Import\Direct Import\bin\Debug\Direct Import.exe
+C:\Users\Walmart\Documents\Direct Import\Direct Import\bin\Debug\Direct Import.pdb
+C:\Users\Walmart\Documents\Direct Import\Direct Import\bin\Debug\WebDriver.dll
+C:\Users\Walmart\Documents\Direct Import\Direct Import\bin\Debug\WebDriver.Support.dll
+C:\Users\Walmart\Documents\Direct Import\Direct Import\bin\Debug\WebDriver.xml
+C:\Users\Walmart\Documents\Direct Import\Direct Import\bin\Debug\WebDriver.Support.xml
+C:\Users\Walmart\Documents\Direct Import\Direct Import\obj\Debug\Direct_Import.Form1.resources
+C:\Users\Walmart\Documents\Direct Import\Direct Import\obj\Debug\Direct_Import.Properties.Resources.resources
+C:\Users\Walmart\Documents\Direct Import\Direct Import\obj\Debug\Direct Import.csproj.GenerateResource.cache
+C:\Users\Walmart\Documents\Direct Import\Direct Import\obj\Debug\Direct Import.csproj.CoreCompileInputs.cache
+C:\Users\Walmart\Documents\Direct Import\Direct Import\obj\Debug\Direct Import.csproj.CopyComplete
+C:\Users\Walmart\Documents\Direct Import\Direct Import\obj\Debug\Direct Import.exe
+C:\Users\Walmart\Documents\Direct Import\Direct Import\obj\Debug\Direct Import.pdb
+C:\Users\Walmart\Documents\Direct Import\Direct Import\obj\Debug\Direct Import.csprojAssemblyReference.cache
